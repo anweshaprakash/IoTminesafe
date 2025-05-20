@@ -92,8 +92,8 @@ A wearable helmet-based system featuring:
 
 ## 👩‍💻 Authors
 
-- **Amisha Balwani** (2022UEI2829)
-- **Anwesha Prakash** (2022UEI2802)
+- **Amisha Balwani** 
+- **Anwesha Prakash** 
 
 ---
 
