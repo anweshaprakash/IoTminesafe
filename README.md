@@ -92,8 +92,9 @@ A wearable helmet-based system featuring:
 
 ## 👩‍💻 Authors
 
-- **Amisha Balwani** 
-- **Anwesha Prakash** 
+- [**Amisha Balwani**](https://github.com/amishabalwani1004)  
+- [**Anwesha Prakash**](https://github.com/anweshaprakash)
+
 
 ---
 
