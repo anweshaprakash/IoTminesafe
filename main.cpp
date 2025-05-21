@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3MGqJl9sZ"
-#define BLYNK_TEMPLATE_NAME "ABAPmines"
-#define BLYNK_AUTH_TOKEN "waYqveH1LvIUy-YwX-vmtIsOw5wDHbO6"
+#define BLYNK_TEMPLATE_ID "REDACTED_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "REDACTED_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "REDACTED_BLYNK_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -11,8 +11,11 @@
 #include <MPU6050.h>
 
 // WiFi credentials
-const char* ssid = "Anwesha's M13";
-const char* password = "anwesha123";
+const char* ssid = "REDACTED_SSID";
+const char* password = "REDACTED_PASSWORD";
+
+// Replace with your own Blynk and WiFi credentials before uploading to board
+
 
 static const int RXPin = 16, TXPin = 17;
 static const uint32_t GPSBaud = 9600;
